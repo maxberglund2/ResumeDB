@@ -1,0 +1,6 @@
+@ResumeDB_HostAddress = http://localhost:5041
+
+GET {{ResumeDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
